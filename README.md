@@ -2,7 +2,7 @@
 
 Note Limiter has a single purpose -- to limit the number of MIDI notes that it allows to pass. It has control over voices (polyphony) and minimum time between note-on events.
 
-[![How it Looks](images/device.gif)](https://www.youtube.com/watch?v=574H1rq7Tkg)
+![How it Looks](images/device.gif)
 
 ## Installation
 
